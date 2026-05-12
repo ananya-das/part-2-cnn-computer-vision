@@ -23,25 +23,43 @@ Reason:
 
 
 ## Task 6: CNN Concept Explanation
-# CNN Concepts
 
-## What is Convolution?
+### What is Convolution?
 
 Convolution is an operation where small filters slide over the image
 to detect patterns like edges, scratches, textures, and shapes.
 
-## Why is Pooling Used?
+### Why is Pooling Used?
 
 Pooling reduces image size while keeping important information.
 This helps reduce computation and overfitting.
 
-## Why is ReLU Used?
+### Why is ReLU Used?
 
 ReLU activation helps the network learn non-linear patterns efficiently.
 
 :contentReference[oaicite:0]{index=0}
 
-## Why are CNNs Better for Images?
+### Why are CNNs Better for Images?
 
 CNNs preserve spatial relationships in images and automatically learn
 important visual features.
+
+## Task 7:Business Use Case Mapping
+
+## Business Use Case
+
+This CNN-based defect detection system can be used in
+manufacturing quality inspection.
+
+Applications:
+- Detect scratches on metal surfaces
+- Detect dents in automotive components
+- Detect stains on packaging materials
+- Automate visual inspection systems
+
+Benefits:
+- Faster inspection
+- Reduced manual effort
+- Improved product quality
+- Reduced manufacturing defects
